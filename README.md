@@ -1,17 +1,12 @@
-# Libreria
+<div style="text-align:center"><img src="http://blog.puntoycomalab.com/wp-content/uploads/2020/05/icons8-punto-y-coma-96.png" /></div>
 
-A new Flutter project.
+# Librerías comunes entre aplicaciones Flutter 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Librería
 
-A few resources to get you started if this is your first Flutter project:
+Está es la librería como proyecto antes de refactorizarlo para reusarlo en los otros dos cliente.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Lab completo: Librerías comunes entre aplicaciones Flutter ](http://blog.puntoycomalab.com/2021/01/04/librerias-comunes-entre-aplicaciones-flutter/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_DemoLibreria_Libreria
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
