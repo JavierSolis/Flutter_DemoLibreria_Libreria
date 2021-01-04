@@ -20,6 +20,4 @@ Es una librería de ejemplo, que consta de un botón para iniciar el chat y una 
 
 <br>
 
-
-![Alt Text](https://github.com/JavierSolis/Flutter_DemoLibreria_Libreria/raw/main/readme/image/demo.gif)
-
+<img src="https://github.com/JavierSolis/Flutter_DemoLibreria_Libreria/raw/main/readme/image/demo.gif" width="370"  />
