@@ -1,15 +1,25 @@
 
-<div style="text-align:center"><a href="https://puntoycomalab.com"></a><img src="https://github.com/JavierSolis/Flutter_DemoLibreria_Libreria/raw/main/readme/image/logo.png" /></div>
+<p align="center">
+<img height="60px"  src="https://github.com/JavierSolis/Flutter_DemoLibreria_Libreria/raw/main/readme/image/logo.png" /><br> <a href="https://puntoycomalab.com">Punto y Coma Lab</a>
+<p>
 
-# [Punto y Coma Lab](https://blog.puntoycomalab.com/)
 
 # Librerías comunes entre aplicaciones Flutter 
 
 
 ## Librería
 
-Está es la librería como proyecto antes de refactorizarlo para reusarlo en los otros dos cliente.
+Está es la librería como proyecto antes de refactorizarlo para reusarlo en los otros dos clientes.
 
-- [Lab completo: Librerías comunes entre aplicaciones Flutter ](http://blog.puntoycomalab.com/2021/01/04/librerias-comunes-entre-aplicaciones-flutter/)
+Es una librería de ejemplo, que consta de un botón para iniciar el chat y una página del chat que acepta parametrós para abrir cada conversación.
+
+
+**Pueden ver el tutorial completo en 
+[Lab completo: Librerías comunes entre aplicaciones Flutter ](http://blog.puntoycomalab.com/2021/01/04/librerias-comunes-entre-aplicaciones-flutter/)**
+
+
+<br>
+
 
 ![Alt Text](https://github.com/JavierSolis/Flutter_DemoLibreria_Libreria/raw/main/readme/image/demo.gif)
+
